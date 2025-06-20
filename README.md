@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Vikum</h1>
 <h3 align="center">I'm a passionate fullstack developer and tech-enthusiast.</h3>
 
-</hr>
+<hr>
 <h3 align="left">About Me</h3>
 <p align="left">Name: Vikum Indeewara</p>
 <p align="left">Education: University Of Peradeniya</p>
