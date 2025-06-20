@@ -37,6 +37,14 @@ ght="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer
 
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building,+learning,+evolving;welcome+to+my+world+of+code." alt="Typing SVG" />
+</p>
+
+
+
+
+
 ## 📩 Projects
 
 📧 Photographer Portfolio Website: [Photographer-Portfolio-Website](https://photographer-portfolio-git-local-changes-vkums-projects.vercel.app)  
