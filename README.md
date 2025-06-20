@@ -8,7 +8,19 @@
     <li>🎓 I'm currently pursuing my studies in <strong>Computer Science</strong>, diving deep into areas like <strong>AI</strong>, <strong>data structures</strong>, and <strong>machine learning</strong>.</li>
     <li>📸 I enjoy <strong>photography</strong>, <strong>videography</strong>, and creative storytelling.</li>
   </ul>
+  
 </p>
+
+---
+
+## 🎯 Interests
+
+- 🌐 Web Development  
+- 🧠 Machine Learning & AI  
+- 🎨 UI/UX Design & Animations  
+- 🚀 Video Editing 
+
+---
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -26,17 +38,15 @@ ght="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peshliya&layout=compact&theme=tokyonight&langs_count=6&hide=php,python&custom_title=My%20Top%20Languages&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff" />
 </p>
 
----
 
-## 🎯 Interests
 
-- 🌐 Web Development  
-- 🧠 Machine Learning & AI  
-- 🎨 UI/UX Design & Animations  
-- 🚀 Open Source Contribution  
-- 📚 Reading & Sharing Knowledge
 
----
+## 📩 Let's Connect!
 
+📧 Email: [vikum.i.bandara@gmail.com](mailto:vikum.i.bandara@gmail.com)  
+🐙 GitHub: [github.com/VikumIndeewara](https://github.com/VikumIndeewara)  
+🔗 LinkedIn: [Vikum_Bandara](https://www.linkedin.com/in/vikum-bandara-559267252/)  
+
+<p align="center">
 
 
