@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Vikum Indeewara</h1>
-<h3 align="center">A passionate fullstack developer and tech-enthusiast.</h3>
+<h1 align="center">Hi👋, I'm Vikum</h1>
+<h3 align="center">I'm a passionate fullstack developer and tech-enthusiast.</h3>
+
+</hr>
+<h3 align="left">About Me</h3>
+<p align="left">Name: Vikum Indeewara</p>
+<p align="left">Education: University Of Peradeniya</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vikum bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikum bandara" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/vikum bandara](https://www.linkedin.com/in/vikum-bandara-559267252/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikum bandara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
