@@ -4,6 +4,7 @@
 <hr>
 <h2 align="left">About Me</h3>
 <p align="left">
+  <br>
   <ul>
     <li>🎓 I'm currently pursuing my studies in <strong>Computer Science</strong>, diving deep into areas like <strong>AI</strong>, <strong>data structures</strong>, and <strong>machine learning</strong>.</li>
     <li>📸 I enjoy <strong>photography</strong>, <strong>videography</strong>, and creative storytelling.</li>
@@ -13,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building,+learning,+evolving;welcome+to+my+world+of+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building,+Learning,+Evolving;Welcome+To+My+World+Of+Code+!" alt="Typing SVG" />
 </p>
 
 
@@ -133,17 +134,31 @@ ght="40"/>
 
 ## 📩 Projects
 
+
 📧 Photographer Portfolio Website: [Photographer-Portfolio-Website](https://photographer-portfolio-git-local-changes-vkums-projects.vercel.app)  
+
 🐙 Real State Listing Site: [Real-State](https://bookstore-mern-web-app.onrender.com)  
+
 🔗 Book Store App: [Book-Store](https://bookstore-mern-web-app.onrender.com)  
+
+
+
+
 
 
 ## 📩 Let's Connect!
 
+
 📧 Email: [vikum.i.bandara@gmail.com](mailto:vikum.i.bandara@gmail.com)  
+
 🐙 GitHub: [github.com/VikumIndeewara](https://github.com/VikumIndeewara)  
+
 🔗 LinkedIn: [Vikum_Bandara](https://www.linkedin.com/in/vikum-bandara-559267252/)  
 
-<p align="center">
+
+
+
+
+
 
 
